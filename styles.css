@@ -1,0 +1,27 @@
+body {
+    overflow-x: hidden;
+    display: block;
+}
+
+#hero {
+    margin-top: 160px;
+}
+
+#contact {
+    background-color: #F1F0FF !important;
+
+}
+
+.logo {
+    width: 100px;
+    height: 100px;
+}
+
+.logo a {
+    font-size: 40px;
+}
+
+.navbar-brand {
+    font-size: 30px;
+}
+
